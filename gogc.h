@@ -8,7 +8,7 @@ extern "C" {
 #ifndef gogc_H
 #define gogc_H
 
-/* Generated with cbindgen:0.10.0 */
+/* Generated with cbindgen:0.14.1 */
 
 #include <stdarg.h>
 #include <stdbool.h>
@@ -27,4 +27,3 @@ void gogc_verify_post(const gogc_PublicReplicaInfo *replicas_ptr, size_t replica
 #ifdef __cplusplus
 } /* extern "C" */
 #endif
-
